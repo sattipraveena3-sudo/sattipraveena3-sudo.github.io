@@ -1,0 +1,255 @@
+%PDF-1.4
+%ASCII-CV
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 /MediaBox [0 0 612 792] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 8 0 R /Annots [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 9 0 R /Annots [15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R] >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+8 0 obj
+<< /Length 8121 >>
+stream
+BT 0.060 g /F2 18.00 Tf 36.00 760.00 Td (PRAVEENA SATTI) Tj ET
+BT 0.150 g /F2 8.20 Tf 36.00 744.00 Td (AI/ML RESEARCHER | TRUSTWORTHY AI | INFORMATION RETRIEVAL | MEDICAL & MULTIMODAL ML) Tj ET
+BT 0.180 g /F1 8.20 Tf 36.00 731.00 Td (Hyderabad, India) Tj ET
+BT 0.180 g /F1 8.20 Tf 98.44 731.00 Td ( | Email) Tj ET
+BT 0.180 g /F1 8.20 Tf 125.63 731.00 Td ( | LinkedIn) Tj ET
+BT 0.180 g /F1 8.20 Tf 163.32 731.00 Td ( | GitHub) Tj ET
+BT 0.180 g /F1 8.20 Tf 195.53 731.00 Td ( | Portfolio) Tj ET
+BT 0.180 g /F1 8.20 Tf 232.30 731.00 Td ( | ORCID) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 710.00 Td (RESEARCH PROFILE) Tj ET
+q 0.650 G 0.50 w 36.00 706.00 m 576.00 706.00 l S Q
+BT 0.080 g /F1 8.30 Tf 36.00 694.40 Td (AI/ML researcher and engineer focused on trustworthy and reproducible learning systems across information retrieval, language models, medical) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 682.80 Td (image segmentation, multimodal/time-series learning, and production ML. Hands-on work spans Transformer NLP, RAG and hybrid retrieval,) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 671.20 Td (state-space modeling, graph systems, cloud ML pipelines, checkpoint verification, distribution-shift stress testing, and verification-aware agent) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 659.60 Td (workflows. Published work includes BERT-based multi-label emotion classification and an open technical preprint on backward-consistent) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 648.00 Td (multimodal reconciliation.) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 634.20 Td (Research objective: Develop AI systems whose predictions and actions can be evaluated, traced to evidence, reproduced reliably, and adapted) Tj ET
+BT 0.080 g /F1 8.30 Tf 36.00 622.60 Td (safely under real-world distribution shift.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 604.80 Td (RESEARCH INTERESTS & TECHNICAL DEPTH) Tj ET
+q 0.650 G 0.50 w 36.00 600.80 m 576.00 600.80 l S Q
+BT 0.080 g /F1 7.70 Tf 36.00 589.20 Td (Research: Trustworthy/Reliable AI | Medical Image Segmentation | Test-Time Adaptation | Distribution Shift | Information Retrieval & RAG | NLP &) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 578.40 Td (Transformers | Multimodal & Time-Series Learning | Agentic AI | Graph ML | ML Systems) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 565.40 Td (Methods: PVTv2/EMCAD | Dice/Jaccard/HD95/ASD | uncertainty & entropy | reliability gating | BM25 | sparse/dense retrieval | SPLADE | Lucene |) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 554.60 Td (BERT/Transformers | state-space models & RTS smoothing | semantic search | graph reasoning) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 537.60 Td (RESEARCH REPRODUCIBILITY & OPEN-SOURCE CONTRIBUTIONS) Tj ET
+q 0.650 G 0.50 w 36.00 533.60 m 576.00 533.60 l S Q
+BT 0.050 g /F2 8.30 Tf 36.00 522.00 Td (EMCAD Synapse Checkpoint Verification & ReliEMCAD Research Extension) Tj ET
+BT 0.050 g /F2 8.30 Tf 557.54 522.00 Td (2026) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 510.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 510.40 Td (Independently verified the authors' released PVT-EMCAD-B2 checkpoint on the official 12-volume Synapse test split using CPU-compatible batched) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 498.80 Td (inference; observed 83.86% mean Dice and 74.68% mean Jaccard, closely matching paper references of 83.63% and 74.65%.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 486.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 486.00 Td (Recorded the exact official-repository commit, checkpoint SHA-256, model parameter count, environment details, raw per-case/per-class metrics, and) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 474.40 Td (execution logs; checkpoint loaded with 0 missing and 0 unexpected keys. Reported HD95 20.57 versus paper reference 15.68 without masking the) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 462.80 Td (reproducibility gap.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 450.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 450.00 Td (Proposed ReliEMCAD: reliability-gated lightweight test-time adaptation for medical segmentation under domain shift. In a 148-slice Synapse volume pilot,) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 438.40 Td (a controlled gamma intensity shift reduced Dice from 72.59% to 53.78% and Jaccard from 63.64% to 46.62%, motivating uncertainty-aware) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 426.80 Td (freeze/adapt/referral and rollback decisions.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 414.00 Td (Castorini - Foundations of Retrieval | Anserini & Pyserini) Tj ET
+BT 0.050 g /F2 8.30 Tf 557.54 414.00 Td (2026) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 402.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 402.40 Td (Reproduced retrieval experiments across classical, sparse, and dense settings and contributed verified reproduction-log results to Castorini's official) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 390.80 Td (information-retrieval toolkits.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 378.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 378.00 Td (Both contributions passed maintainer review and were merged upstream: Anserini PR #3391 and Pyserini PR #2650; work covered BM25, Lucene) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 366.40 Td (retrieval, SPLADE-family retrieval, neural/dense retrieval, benchmark reproduction, and metric verification.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 349.60 Td (RESEARCH & PUBLICATIONS) Tj ET
+q 0.650 G 0.50 w 36.00 345.60 m 576.00 345.60 l S Q
+BT 0.050 g /F2 8.30 Tf 36.00 334.00 Td (Emotion Classification Using BERT: A Comprehensive Study) Tj ET
+BT 0.050 g /F2 8.30 Tf 557.54 334.00 Td (2023) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 322.40 Td (Journal of Propulsion Technology, 44\(4\) - peer-reviewed publication) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 309.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 309.40 Td (Developed a Transformer-based multi-label emotion-classification workflow on GoEmotions covering preprocessing, BERT fine-tuning, evaluation, and) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 297.80 Td (label-level analysis.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 285.00 Td (BioTwin-PE: Multimodal Placental Monitoring with Backward-Consistent Smoothing) Tj ET
+BT 0.050 g /F2 8.30 Tf 557.54 285.00 Td (2026) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 273.40 Td (Open-access technical preprint) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 260.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 260.40 Td (Proposed APRE and TPSM for reconciling asynchronous evidence with continuous wearable signals using backward-consistent temporal reasoning and) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 248.80 Td (state-memory concepts.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 232.00 Td (RESEARCH-RELEVANT EXPERIENCE) Tj ET
+q 0.650 G 0.50 w 36.00 228.00 m 576.00 228.00 l S Q
+BT 0.050 g /F2 8.30 Tf 36.00 216.40 Td (AI / ML Engineer Intern - Infor, Hyderabad) Tj ET
+BT 0.050 g /F2 8.30 Tf 524.33 216.40 Td (2025-Present) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 204.80 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 204.80 Td (Built end-to-end retrieval-augmented generation pipelines using LangChain, vector indexing, SQL preprocessing, and REST deployment layers for) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 193.20 Td (enterprise knowledge retrieval.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 180.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 180.40 Td (Developed NLP automation modules reported to reduce manual workflow processing time by 30%, and designed reusable AWS data/ML workflows using) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 168.80 Td (S3, Lambda, Docker, CI/CD, monitoring, and preprocessing components.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 156.00 Td (Software Development Intern - Swecha) Tj ET
+BT 0.050 g /F2 8.30 Tf 535.88 156.00 Td (Internship) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 144.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 144.40 Td (Improved backend reliability for an open-access learning platform serving 5,000+ localized learners by auditing API/database retrieval paths, resolving) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 132.80 Td (bottlenecks, and building reusable backend modules; reported a 15% execution-efficiency improvement.) Tj ET
+q 0.750 G 0.40 w 36.00 24.00 m 576.00 24.00 l S Q
+BT 0.350 g /F1 6.80 Tf 36.00 12.00 Td (Praveena Satti | Research CV) Tj ET
+BT 0.350 g /F1 6.80 Tf 541.22 12.00 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 8200 >>
+stream
+BT 0.100 g /F2 9.50 Tf 36.00 752.00 Td (SELECTED RESEARCH & ENGINEERING PROJECTS) Tj ET
+q 0.650 G 0.50 w 36.00 748.00 m 576.00 748.00 l S Q
+BT 0.050 g /F2 8.30 Tf 36.00 736.40 Td (ReliEMCAD - Reliability-Gated Test-Time Adaptation for Medical Segmentation) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 724.80 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 724.80 Td (Designed a lightweight deployment-time framework that estimates distribution shift and predictive uncertainty, then chooses freeze, selective adaptation,) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 713.20 Td (or referral rather than adapting every target input unconditionally.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 700.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 700.40 Td (Planned selective BN/affine or low-rank updates with entropy + consistency + anchor objectives, acceptance testing, rollback, calibration, and) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 688.80 Td (harmful-adaptation tracking.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 676.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 676.00 Td (Evaluation plan covers Dice/Jaccard/HD95/ASD, ECE, uncertainty-error AUROC, selective Dice/coverage, latency, memory, and adaptation-failure) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 664.40 Td (analysis.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 651.60 Td (PraxisMesh - Verified Agent Operations Platform) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 640.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 640.00 Td (Designed a safety-oriented agent execution architecture with typed task graphs, deterministic policy gates, human approval, independent postcondition) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 628.40 Td (verification, and tamper-evident audit trails.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 615.60 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 615.60 Td (Focused the system on explicit execution boundaries and evidence-producing verification rather than unconstrained autonomous action.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 602.80 Td (Clinical Trial Matching Engine - Retrieval / NLP) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 591.20 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 591.20 Td (Implemented hybrid semantic + structured retrieval over public ClinicalTrials.gov metadata using sentence-transformers, Chroma, FastAPI, and Docker.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 578.40 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 578.40 Td (Structured the pipeline for evidence-grounded candidate-to-trial retrieval with reusable preprocessing and API layers.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 565.60 Td (Multimodal Vital-Signs Anomaly Detector - State-Space ML) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 554.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 554.00 Td (Built quality-aware state-space fusion with RTS smoothing for missing/noisy HR, SpO2, respiration, and temperature streams.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 541.20 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 541.20 Td (Modeled uncertainty and irregular longitudinal observations rather than assuming complete, uniformly sampled physiological data.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 528.40 Td (Repo-Aware Coding Assistant - Code Intelligence) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 516.80 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 516.80 Td (Built Python AST chunking, call-graph expansion, and lexical retrieval for grounded file/line search and repository-aware change suggestions.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 504.00 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 504.00 Td (Designed outputs around traceable code locations and dependency context to reduce unsupported repository edits.) Tj ET
+BT 0.050 g /F2 8.30 Tf 36.00 491.20 Td (Additional Research/Engineering Systems) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 479.60 Td (Natural-Language-to-Infrastructure Generator | Hybrid Wiki Search Engine | Transaction Graph Fraud Detector | Distributed ML Task Queue | ETL) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 468.80 Td (Observability Dashboard | HireLens ATS analysis | Avenkin care-coordination platform.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 451.80 Td (EDUCATION) Tj ET
+q 0.650 G 0.50 w 36.00 447.80 m 576.00 447.80 l S Q
+BT 0.050 g /F2 8.30 Tf 36.00 436.20 Td (Bachelor of Technology \(Honours\) - Computer Science & Engineering \(AI/ML\)) Tj ET
+BT 0.050 g /F2 8.30 Tf 536.32 436.20 Td (2022-2026) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 424.60 Td (KL University) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 411.60 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 411.60 Td (Specialization: Artificial Intelligence and Machine Learning. Academic work and independent projects span machine learning, deep learning, NLP,) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 400.00 Td (information retrieval, computer vision/medical imaging, cloud/data systems, and software engineering.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 383.20 Td (RESEARCH WORKFLOW & EVALUATION PRACTICE) Tj ET
+q 0.650 G 0.50 w 36.00 379.20 m 576.00 379.20 l S Q
+BT 0.080 g /F2 7.70 Tf 36.00 367.60 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 367.60 Td (Problem formulation -> related-work review -> baseline selection -> reproducible experiment setup -> metric validation -> error/failure analysis ->) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 356.00 Td (documented evidence.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 343.20 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 343.20 Td (For ML reproducibility, record dataset/split, source revision, checkpoint provenance, environment, raw metrics, and limitations; distinguish checkpoint) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 331.60 Td (verification from independent retraining or multi-run replication.) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 318.80 Td (-) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 318.80 Td (For trustworthy AI, prefer explicit uncertainty, calibration, acceptance tests, rollback, grounded evidence, controlled execution, and documented failure) Tj ET
+BT 0.080 g /F1 7.70 Tf 46.00 307.20 Td (modes over unsupported model claims.) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 290.40 Td (TECHNICAL SKILLS) Tj ET
+q 0.650 G 0.50 w 36.00 286.40 m 576.00 286.40 l S Q
+BT 0.080 g /F1 7.70 Tf 36.00 274.80 Td (ML/AI: Python | PyTorch | TensorFlow | Scikit-learn | Transformers/BERT | sentence-transformers | LangChain | information retrieval | semantic search |) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 264.00 Td (state-space modeling | graph ML) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 251.00 Td (Data/Systems: Pandas | NumPy | PySpark | SQL | FastAPI | Flask | Docker | Linux | Neo4j | NetworkX | REST APIs | CI/CD) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 238.00 Td (Cloud/MLOps: AWS S3/Lambda | Terraform | monitoring | reproducible environments | checkpoint/data provenance | experiment logs) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 221.00 Td (SELECTED CREDENTIALS & PROFESSIONAL AFFILIATIONS) Tj ET
+q 0.650 G 0.50 w 36.00 217.00 m 576.00 217.00 l S Q
+BT 0.080 g /F1 7.70 Tf 36.00 205.40 Td (Certifications: AWS Certified Cloud Practitioner | Google Associate Cloud Engineer | GitHub Foundations | Neo4j Certified Professional | Automation) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 194.60 Td (Anywhere Advanced RPA Professional) Tj ET
+BT 0.080 g /F1 7.70 Tf 36.00 181.60 Td (Affiliations: IEEE Member | IEEE Women in Engineering | IEEE SIGHT) Tj ET
+BT 0.100 g /F2 9.50 Tf 36.00 164.60 Td (RESEARCH EVIDENCE & CLICKABLE LINKS) Tj ET
+q 0.650 G 0.50 w 36.00 160.60 m 576.00 160.60 l S Q
+BT 0.080 g /F2 7.70 Tf 36.00 149.00 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 149.00 Td (EMCAD / ReliEMCAD reproducibility code) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 138.20 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 138.20 Td (Castorini Anserini merged PR #3391) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 127.40 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 127.40 Td (Castorini Pyserini merged PR #2650) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 116.60 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 116.60 Td (GitHub research portfolio) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 105.80 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 105.80 Td (Research portfolio website) Tj ET
+BT 0.080 g /F2 7.70 Tf 36.00 95.00 Td (-) Tj ET
+BT 0.180 g /F1 7.70 Tf 46.00 95.00 Td (ORCID 0009-0000-6555-5072) Tj ET
+q 0.750 G 0.40 w 36.00 24.00 m 576.00 24.00 l S Q
+BT 0.350 g /F1 6.80 Tf 36.00 12.00 Td (Praveena Satti | Research CV) Tj ET
+BT 0.350 g /F1 6.80 Tf 541.22 12.00 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [98.44 729.50 125.63 740.20] /Border [0 0 0] /A << /S /URI /URI (mailto:sattipraveena3@gmail.com) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [125.63 729.50 163.32 740.20] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/praveenasatti) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [163.32 729.50 195.53 740.20] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [195.53 729.50 232.30 740.20] /Border [0 0 0] /A << /S /URI /URI (https://sattipraveena3-sudo.github.io/) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [232.30 729.50 265.41 740.20] /Border [0 0 0] /A << /S /URI /URI (https://orcid.org/0009-0000-6555-5072) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 147.50 189.76 157.70] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo/praveenasatti/tree/emcad-screening) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 136.70 170.96 146.90] /Border [0 0 0] /A << /S /URI /URI (https://github.com/castorini/anserini/pull/3391) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 125.90 170.52 136.10] /Border [0 0 0] /A << /S /URI /URI (https://github.com/castorini/pyserini/pull/2650) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 115.10 131.59 125.30] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo) >> >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 104.30 136.72 114.50] /Border [0 0 0] /A << /S /URI /URI (https://sattipraveena3-sudo.github.io/) >> >>
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 93.50 149.14 103.70] /Border [0 0 0] /A << /S /URI /URI (https://orcid.org/0009-0000-6555-5072) >> >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000155 00000 n 
+0000000322 00000 n 
+0000000496 00000 n 
+0000000566 00000 n 
+0000000641 00000 n 
+0000000719 00000 n 
+0000008891 00000 n 
+0000017142 00000 n 
+0000017299 00000 n 
+0000017467 00000 n 
+0000017632 00000 n 
+0000017797 00000 n 
+0000017961 00000 n 
+0000018160 00000 n 
+0000018333 00000 n 
+0000018506 00000 n 
+0000018670 00000 n 
+0000018834 00000 n 
+trailer
+<< /Size 21 /Root 1 0 R >>
+startxref
+18996
+%%EOF
