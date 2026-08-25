@@ -1,1 +1,118 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Research agenda of Praveena Satti across trustworthy AI, medical image segmentation, test-time adaptation, information retrieval, multimodal learning, and reproducible ML systems."><meta name="theme-color" content="#14231f"><link rel="canonical" href="https://sattipraveena3-sudo.github.io/research.html"><link rel="icon" href="assets/img/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/css/styles.css"><title>Research | Praveena Satti</title></head><body data-page="research"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><div class="nav-wrap"><a class="brand" href="/" aria-label="Praveena Satti home"><span class="brand-mark" aria-hidden="true">PS</span><span>Praveena Satti</span></a><button class="menu-button" type="button" aria-expanded="false" aria-controls="site-navigation" aria-label="Open navigation"><span></span></button><nav class="site-nav" id="site-navigation" aria-label="Primary navigation"><a href="/" data-nav="home">Home</a><a href="research.html" data-nav="research">Research</a><a href="experience.html" data-nav="experience">Experience</a><a href="projects.html" data-nav="projects">Projects</a><a href="credentials.html" data-nav="credentials">Credentials</a><a href="resume.html" data-nav="resume">Resume</a><a class="nav-cta" href="contact.html" data-nav="contact">Contact ♡</a></nav></div></header><main id="main"><section class="page-hero"><div class="container"><p class="eyebrow">Research</p><h1>Trustworthy learning under <em>evidence, uncertainty, and distribution shift.</em></h1><p class="page-lead">My research focuses on systems whose predictions and actions can be evaluated, traced to evidence, reproduced reliably, and adapted safely in changing environments.</p><div class="page-meta"><span>Medical image segmentation</span><span>Test-time adaptation</span><span>Information retrieval</span><span>Multimodal learning</span></div><div class="hero-actions"><a class="button primary" href="resume.html">View latest research CV ↗</a><a class="button" href="assets/Praveena_Satti_Research_CV.pdf" download="Praveena_Satti_Research_CV.pdf">Download PDF ↓</a></div></div></section><section class="section" aria-labelledby="current-work"><div class="container"><div class="section-head reveal"><div><p class="eyebrow">Current research evidence</p><h2 id="current-work">EMCAD reproducibility and ReliEMCAD.</h2></div><p>A measured baseline and a direct research extension.</p></div><article class="publication reveal"><div><span class="pub-type">Reproducibility study</span><span class="status-badge">Completed</span></div><div><h3>EMCAD Synapse Checkpoint Verification</h3><p>Independently evaluated the authors' released PVT-EMCAD-B2 checkpoint on the official 12-volume Synapse test split using CPU-compatible batched inference.</p><div class="tag-row"><span class="tag">83.86% Dice</span><span class="tag">74.68% Jaccard</span><span class="tag">HD95 20.57</span><span class="tag">0 missing keys</span><span class="tag">0 unexpected keys</span></div><p>Recorded the official repository revision, checkpoint SHA-256, model parameter count, environment information, raw per-case/per-class metrics, and execution logs. The observed HD95 difference from the paper reference is reported openly rather than hidden.</p><div class="card-actions"><a class="button small primary" href="https://github.com/sattipraveena3-sudo/praveenasatti/tree/emcad-screening" target="_blank" rel="noopener noreferrer">Code &amp; evidence ↗</a></div></div></article><article class="publication reveal"><div><span class="pub-type">Research proposal</span><span class="status-badge">Path A extension</span></div><div><h3>ReliEMCAD: Reliability-Gated Lightweight Test-Time Adaptation</h3><p>Proposes a deployment-time framework for medical segmentation that estimates distribution shift and predictive uncertainty, then chooses freeze, selective adaptation, or referral instead of adapting every target input unconditionally.</p><p>In a 148-slice Synapse volume pilot, a controlled gamma intensity shift reduced Dice from 72.59% to 53.78% and Jaccard from 63.64% to 46.62%, motivating uncertainty-aware adaptation, acceptance testing, rollback, calibration, and harmful-adaptation tracking.</p><div class="tag-row"><span class="tag">TTA</span><span class="tag">Reliability Gating</span><span class="tag">Entropy</span><span class="tag">Rollback</span><span class="tag">Calibration</span></div></div></article></div></section><section class="section tint" aria-labelledby="publications-title"><div class="container"><div class="section-head reveal"><div><p class="eyebrow">Research output</p><h2 id="publications-title">Publications and open research.</h2></div></div><article class="publication reveal"><div><span class="pub-type">Workshop position paper</span><span class="status-badge">Under Review · Double-Blind</span></div><div><h3>Position Paper on Assurance for Industrial Causal Agents</h3><p class="citation">Submitted to the New in Machine Learning (NewInML) Workshop at NeurIPS 2026 · Double-blind review.</p><p>Examines why successful multi-agent orchestration cannot be treated as proof of causal validity and proposes a claim-centered release protocol for safer industrial diagnosis. The exact title and manuscript are withheld here until the double-blind review concludes.</p><div class="tag-row"><span class="tag">Trustworthy AI</span><span class="tag">Causal AI</span><span class="tag">Industrial AI</span><span class="tag">Agent Systems</span></div></div></article><article class="publication reveal"><div><span class="pub-type">Journal article</span><span class="status-badge">Published</span></div><div><h3>Emotion Classification Using BERT: A Comprehensive Study</h3><p class="citation">Praveena Satti · Journal of Propulsion Technology, 44(4).</p><p>Transformer-based multi-label emotion classification on GoEmotions covering preprocessing, BERT fine-tuning, evaluation, and label-level analysis.</p><div class="card-actions"><a class="button small primary" href="https://www.propulsiontechjournal.com/index.php/journal/article/view/8744" target="_blank" rel="noopener noreferrer">Official record ↗</a></div></div></article><article class="publication reveal"><div><span class="pub-type">Technical preprint</span><span class="status-badge">Open research</span></div><div><h3>BioTwin-PE: Multimodal Placental Monitoring with Backward-Consistent Smoothing</h3><p>Proposes APRE and TPSM for reconciling asynchronous evidence with continuous wearable signals using backward-consistent temporal reasoning and state-memory concepts.</p><div class="card-actions"><a class="button small primary" href="https://github.com/sattipraveena3-sudo/BioTwin-PE-APEE" target="_blank" rel="noopener noreferrer">Research repository ↗</a></div></div></article></div></section><section class="section" aria-labelledby="agenda-title"><div class="container"><div class="section-head reveal"><div><p class="eyebrow">Research agenda</p><h2 id="agenda-title">Doctoral questions I want to pursue.</h2></div></div><div class="cards"><article class="card reveal"><span class="number">01 / Medical AI</span><h3>When should a model adapt?</h3><p>Reliable test-time adaptation under scanner, intensity, and deployment shift with explicit uncertainty, calibration, referral, acceptance testing, and rollback.</p></article><article class="card reveal"><span class="number">02 / Retrieval + Language</span><h3>How can retrieval-grounded models become more dependable?</h3><p>Study sparse/dense retrieval, ranking behavior, evidence attribution, metric reliability, and system-level evaluation for knowledge-intensive language systems.</p></article><article class="card reveal"><span class="number">03 / Multimodal + Systems</span><h3>How should AI reason and act under incomplete evidence?</h3><p>Multimodal/time-series learning and verification-aware systems that preserve uncertainty, traceability, controlled execution, and documented failure modes.</p></article></div></div></section></main><footer class="site-footer"><div class="container footer-grid"><p>© <span data-year></span> Praveena Satti. Research, evidence &amp; reliable AI.</p><div class="footer-links"><a href="mailto:sattipraveena3@gmail.com">Email</a><a href="https://github.com/sattipraveena3-sudo" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/praveenasatti" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="resume.html">Resume</a><a href="https://orcid.org/0009-0000-6555-5072" target="_blank" rel="noopener noreferrer">ORCID</a></div></div></footer><script src="assets/js/main.js?v=20260824" defer></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Praveena Satti's focused research program on evidence-induced answer reversals, retrieval robustness, verification, and abstention in RAG systems.">
+  <meta name="theme-color" content="#14231f">
+  <link rel="canonical" href="https://sattipraveena3-sudo.github.io/research.html">
+  <link rel="icon" href="assets/img/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <title>Research | Praveena Satti</title>
+</head>
+<body data-page="research">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="/" aria-label="Praveena Satti home"><span class="brand-mark" aria-hidden="true">PS</span><span>Praveena Satti</span></a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-navigation" aria-label="Open navigation"><span></span></button>
+      <nav class="site-nav" id="site-navigation" aria-label="Primary navigation">
+        <a href="/" data-nav="home">Home</a><a href="research.html" data-nav="research">Research</a><a href="experience.html" data-nav="experience">Experience</a><a href="projects.html" data-nav="projects">Projects</a><a href="credentials.html" data-nav="credentials">Credentials</a><a href="resume.html" data-nav="resume">Resume</a><a class="nav-cta" href="contact.html" data-nav="contact">Contact ♡</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="page-hero">
+      <div class="container">
+        <p class="eyebrow">Frozen research identity</p>
+        <h1>Reliable language systems under <em>changing retrieved evidence.</em></h1>
+        <p class="page-lead">I study reliability in retrieval-augmented language systems: how changes in retrieved evidence cause answer reversals, and how evidence-aware verification and abstention can prevent harmful transitions.</p>
+        <div class="page-meta"><span>Retrieval-augmented generation</span><span>Transition-based evaluation</span><span>Evidence verification</span><span>Selective abstention</span></div>
+        <div class="hero-actions">
+          <a class="button primary" href="https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals" target="_blank" rel="noopener noreferrer">Flagship repository ↗</a>
+          <a class="button" href="https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals/blob/main/docs/RESEARCH_IDENTITY.md" target="_blank" rel="noopener noreferrer">Scope document ↗</a>
+          <a class="button" href="assets/Praveena_Satti_Research_CV.pdf" download="Praveena_Satti_Research_CV.pdf">Download CV ↓</a>
+        </div>
+      </div>
+    </section>
+    <section class="section" aria-labelledby="question-title">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><p class="eyebrow">Flagship program</p><h2 id="question-title">From measurement to mitigation.</h2></div>
+          <p>A focused research program, not a collection of disconnected topics.</p>
+        </div>
+        <article class="publication reveal">
+          <div><span class="pub-type">Flagship question</span><span class="status-badge">Frozen · Fall 2027 focus</span></div>
+          <div>
+            <h3>Evidence-Induced Answer Reversals in RAG</h3>
+            <p><strong>When retrieved evidence is expanded along a fixed ranking, which answer changes are harmful, why do they persist or recover, and can a change-triggered evidence-stability gate reduce correct-to-incorrect transitions without suppressing incorrect-to-correct repairs?</strong></p>
+            <p>The unit of analysis is one question’s answer trajectory over nested Top-k evidence. This exposes individual failures that aggregate accuracy can hide.</p>
+            <div class="tag-row"><span class="tag">EAR</span><span class="tag">BCR</span><span class="tag">RTB</span><span class="tag">Persistence</span><span class="tag">Recovery</span></div>
+          </div>
+        </article>
+      </div>
+    </section>
+    <section class="section tint" aria-labelledby="program-title">
+      <div class="container">
+        <div class="section-head reveal"><div><p class="eyebrow">Contribution plan</p><h2 id="program-title">Three stages with one causal thread.</h2></div></div>
+        <div class="cards">
+          <article class="card reveal"><span class="number">01 / Benchmark</span><h3>Measure trajectories, not just Top-k accuracy</h3><p>Use fixed nested rankings, deterministic generation, open QA datasets, multiple retrievers and model families, bootstrap confidence intervals, and public result contracts.</p></article>
+          <article class="card reveal"><span class="number">02 / Diagnose</span><h3>Explain harmful and beneficial changes</h3><p>Study relevance, contradiction, passage order, context position, and evidence support; distinguish persistent reversals from temporary errors that later recover.</p></article>
+          <article class="card reveal"><span class="number">03 / Gate</span><h3>Verify only on observed answer change</h3><p>Compare the old and new answers against evidence, then accept, retain, or abstain. Evaluate reversal reduction together with beneficial corrections, accuracy, coverage, and cost.</p></article>
+        </div>
+      </div>
+    </section>
+    <section class="section" aria-labelledby="status-title">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><p class="eyebrow">Current status</p><h2 id="status-title">What is complete—and what is not.</h2></div>
+          <p>Software readiness is not presented as a scientific finding.</p>
+        </div>
+        <div class="duo-grid">
+          <article class="duo-panel dark reveal">
+            <p class="eyebrow">Verified</p><h3>Reproducible measurement pipeline</h3>
+            <ul class="metric-list"><li>Unit tests pass</li><li>No-cost mock smoke workflow passes</li><li>Nested-depth validation and trajectory outputs implemented</li><li>EAR, BCR, RTB, EAR@K, P-EAR, and FRD implemented</li></ul>
+          </article>
+          <article class="duo-panel light reveal">
+            <p class="eyebrow">Next evidence</p><h3>Primary study and mitigation</h3>
+            <ul class="metric-list"><li>Freeze models, retrievers, datasets, prompts, and sample size</li><li>Run real open-model trajectories</li><li>Compare the closest published baselines</li><li>Implement and evaluate the evidence-stability gate</li></ul>
+          </article>
+        </div>
+      </div>
+    </section>
+    <section class="section tint" aria-labelledby="literature-title">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><p class="eyebrow">Literature map</p><h2 id="literature-title">Twenty-seven papers define the real gap.</h2></div>
+          <p>A literature map is a table of existing work—not 20–30 papers to write.</p>
+        </div>
+        <article class="publication reveal">
+          <div><span class="pub-type">Related work</span><span class="status-badge">27 primary sources mapped</span></div>
+          <div>
+            <h3>Closest overlaps checked before claiming novelty</h3>
+            <p>Recent papers already study retrieval-size robustness, correct/wrong transitions under grounding perturbations, sufficient-context abstention, conflicting evidence, and adaptive stopping. The defensible gap is therefore the combined trajectory, persistence/recovery, and change-triggered mitigation study—not “answer reversals” alone.</p>
+            <div class="card-actions"><a class="button small primary" href="https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals/blob/main/docs/LITERATURE_MAP.md" target="_blank" rel="noopener noreferrer">Read the literature map ↗</a></div>
+          </div>
+        </article>
+      </div>
+    </section>
+    <section class="section" aria-labelledby="earlier-title">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><p class="eyebrow">Earlier and adjacent work</p><h2 id="earlier-title">Evidence of breadth, outside the frozen agenda.</h2></div>
+          <p>These projects remain part of the record, but they no longer compete with the flagship identity.</p>
+        </div>
+        <div class="cards">
+          <article class="card reveal"><span class="number">Published research</span><h3>Emotion Classification Using BERT</h3><p>Prior work in Transformer-based multi-label emotion classification on GoEmotions.</p><div class="card-actions"><a class="button small" href="https://www.propulsiontechjournal.com/index.php/journal/article/view/8744" target="_blank" rel="noopener noreferrer">Official record ↗</a></div></article>
+          <article class="card reveal"><span class="number">Reproducibility work</span><h3>EMCAD checkpoint verification</h3><p>Earlier medical-segmentation reproducibility scripts and recorded checkpoint evaluation. This is supporting evidence of research practice, not the current doctoral question.</p><div class="card-actions"><a class="button small" href="https://github.com/sattipraveena3-sudo/praveenasatti/tree/emcad-screening" target="_blank" rel="noopener noreferrer">Repository branch ↗</a></div></article>
+          <article class="card reveal"><span class="number">Conceptual preprint</span><h3>BioTwin-PE</h3><p>An earlier multimodal monitoring proposal. The public repository is documentation-focused and does not currently contain an executable implementation.</p><div class="card-actions"><a class="button small" href="https://github.com/sattipraveena3-sudo/BioTwin-PE-APEE" target="_blank" rel="noopener noreferrer">Repository ↗</a></div></article>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="container footer-grid"><p>© <span data-year></span> Praveena Satti. Reliable retrieval-augmented AI.</p><div class="footer-links"><a href="mailto:sattipraveena3@gmail.com">Email</a><a href="https://github.com/sattipraveena3-sudo" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/praveenasatti" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="resume.html">Resume</a><a href="https://orcid.org/0009-0000-6555-5072" target="_blank" rel="noopener noreferrer">ORCID</a></div></div>
+  </footer>
+  <script src="assets/js/main.js?v=20260825" defer></script>
+</body>
+</html>

@@ -1,255 +1,244 @@
 %PDF-1.4
-%ASCII-CV
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 13 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 /MediaBox [0 0 612 792] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 8 0 R /Annots [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 9 0 R /Annots [15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R] >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:sattipraveena3@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 254.845 753.634 274.095 762.874 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/praveenasatti)
+>> /Border [ 0 0 0 ] /Rect [ 280.3782 753.634 309.4842 762.874 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo)
+>> /Border [ 0 0 0 ] /Rect [ 315.7674 753.634 339.7298 762.874 ] /Subtype /Link /Type /Annot
+>>
 endobj
 7 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sattipraveena3-sudo.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 346.013 753.634 374.2566 762.874 ] /Subtype /Link /Type /Annot
+>>
 endobj
 8 0 obj
-<< /Length 8121 >>
-stream
-BT 0.060 g /F2 18.00 Tf 36.00 760.00 Td (PRAVEENA SATTI) Tj ET
-BT 0.150 g /F2 8.20 Tf 36.00 744.00 Td (AI/ML RESEARCHER | TRUSTWORTHY AI | INFORMATION RETRIEVAL | MEDICAL & MULTIMODAL ML) Tj ET
-BT 0.180 g /F1 8.20 Tf 36.00 731.00 Td (Hyderabad, India) Tj ET
-BT 0.180 g /F1 8.20 Tf 98.44 731.00 Td ( | Email) Tj ET
-BT 0.180 g /F1 8.20 Tf 125.63 731.00 Td ( | LinkedIn) Tj ET
-BT 0.180 g /F1 8.20 Tf 163.32 731.00 Td ( | GitHub) Tj ET
-BT 0.180 g /F1 8.20 Tf 195.53 731.00 Td ( | Portfolio) Tj ET
-BT 0.180 g /F1 8.20 Tf 232.30 731.00 Td ( | ORCID) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 710.00 Td (RESEARCH PROFILE) Tj ET
-q 0.650 G 0.50 w 36.00 706.00 m 576.00 706.00 l S Q
-BT 0.080 g /F1 8.30 Tf 36.00 694.40 Td (AI/ML researcher and engineer focused on trustworthy and reproducible learning systems across information retrieval, language models, medical) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 682.80 Td (image segmentation, multimodal/time-series learning, and production ML. Hands-on work spans Transformer NLP, RAG and hybrid retrieval,) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 671.20 Td (state-space modeling, graph systems, cloud ML pipelines, checkpoint verification, distribution-shift stress testing, and verification-aware agent) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 659.60 Td (workflows. Published work includes BERT-based multi-label emotion classification and an open technical preprint on backward-consistent) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 648.00 Td (multimodal reconciliation.) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 634.20 Td (Research objective: Develop AI systems whose predictions and actions can be evaluated, traced to evidence, reproduced reliably, and adapted) Tj ET
-BT 0.080 g /F1 8.30 Tf 36.00 622.60 Td (safely under real-world distribution shift.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 604.80 Td (RESEARCH INTERESTS & TECHNICAL DEPTH) Tj ET
-q 0.650 G 0.50 w 36.00 600.80 m 576.00 600.80 l S Q
-BT 0.080 g /F1 7.70 Tf 36.00 589.20 Td (Research: Trustworthy/Reliable AI | Medical Image Segmentation | Test-Time Adaptation | Distribution Shift | Information Retrieval & RAG | NLP &) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 578.40 Td (Transformers | Multimodal & Time-Series Learning | Agentic AI | Graph ML | ML Systems) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 565.40 Td (Methods: PVTv2/EMCAD | Dice/Jaccard/HD95/ASD | uncertainty & entropy | reliability gating | BM25 | sparse/dense retrieval | SPLADE | Lucene |) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 554.60 Td (BERT/Transformers | state-space models & RTS smoothing | semantic search | graph reasoning) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 537.60 Td (RESEARCH REPRODUCIBILITY & OPEN-SOURCE CONTRIBUTIONS) Tj ET
-q 0.650 G 0.50 w 36.00 533.60 m 576.00 533.60 l S Q
-BT 0.050 g /F2 8.30 Tf 36.00 522.00 Td (EMCAD Synapse Checkpoint Verification & ReliEMCAD Research Extension) Tj ET
-BT 0.050 g /F2 8.30 Tf 557.54 522.00 Td (2026) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 510.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 510.40 Td (Independently verified the authors' released PVT-EMCAD-B2 checkpoint on the official 12-volume Synapse test split using CPU-compatible batched) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 498.80 Td (inference; observed 83.86% mean Dice and 74.68% mean Jaccard, closely matching paper references of 83.63% and 74.65%.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 486.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 486.00 Td (Recorded the exact official-repository commit, checkpoint SHA-256, model parameter count, environment details, raw per-case/per-class metrics, and) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 474.40 Td (execution logs; checkpoint loaded with 0 missing and 0 unexpected keys. Reported HD95 20.57 versus paper reference 15.68 without masking the) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 462.80 Td (reproducibility gap.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 450.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 450.00 Td (Proposed ReliEMCAD: reliability-gated lightweight test-time adaptation for medical segmentation under domain shift. In a 148-slice Synapse volume pilot,) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 438.40 Td (a controlled gamma intensity shift reduced Dice from 72.59% to 53.78% and Jaccard from 63.64% to 46.62%, motivating uncertainty-aware) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 426.80 Td (freeze/adapt/referral and rollback decisions.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 414.00 Td (Castorini - Foundations of Retrieval | Anserini & Pyserini) Tj ET
-BT 0.050 g /F2 8.30 Tf 557.54 414.00 Td (2026) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 402.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 402.40 Td (Reproduced retrieval experiments across classical, sparse, and dense settings and contributed verified reproduction-log results to Castorini's official) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 390.80 Td (information-retrieval toolkits.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 378.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 378.00 Td (Both contributions passed maintainer review and were merged upstream: Anserini PR #3391 and Pyserini PR #2650; work covered BM25, Lucene) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 366.40 Td (retrieval, SPLADE-family retrieval, neural/dense retrieval, benchmark reproduction, and metric verification.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 349.60 Td (RESEARCH & PUBLICATIONS) Tj ET
-q 0.650 G 0.50 w 36.00 345.60 m 576.00 345.60 l S Q
-BT 0.050 g /F2 8.30 Tf 36.00 334.00 Td (Emotion Classification Using BERT: A Comprehensive Study) Tj ET
-BT 0.050 g /F2 8.30 Tf 557.54 334.00 Td (2023) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 322.40 Td (Journal of Propulsion Technology, 44\(4\) - peer-reviewed publication) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 309.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 309.40 Td (Developed a Transformer-based multi-label emotion-classification workflow on GoEmotions covering preprocessing, BERT fine-tuning, evaluation, and) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 297.80 Td (label-level analysis.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 285.00 Td (BioTwin-PE: Multimodal Placental Monitoring with Backward-Consistent Smoothing) Tj ET
-BT 0.050 g /F2 8.30 Tf 557.54 285.00 Td (2026) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 273.40 Td (Open-access technical preprint) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 260.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 260.40 Td (Proposed APRE and TPSM for reconciling asynchronous evidence with continuous wearable signals using backward-consistent temporal reasoning and) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 248.80 Td (state-memory concepts.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 232.00 Td (RESEARCH-RELEVANT EXPERIENCE) Tj ET
-q 0.650 G 0.50 w 36.00 228.00 m 576.00 228.00 l S Q
-BT 0.050 g /F2 8.30 Tf 36.00 216.40 Td (AI / ML Engineer Intern - Infor, Hyderabad) Tj ET
-BT 0.050 g /F2 8.30 Tf 524.33 216.40 Td (2025-Present) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 204.80 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 204.80 Td (Built end-to-end retrieval-augmented generation pipelines using LangChain, vector indexing, SQL preprocessing, and REST deployment layers for) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 193.20 Td (enterprise knowledge retrieval.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 180.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 180.40 Td (Developed NLP automation modules reported to reduce manual workflow processing time by 30%, and designed reusable AWS data/ML workflows using) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 168.80 Td (S3, Lambda, Docker, CI/CD, monitoring, and preprocessing components.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 156.00 Td (Software Development Intern - Swecha) Tj ET
-BT 0.050 g /F2 8.30 Tf 535.88 156.00 Td (Internship) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 144.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 144.40 Td (Improved backend reliability for an open-access learning platform serving 5,000+ localized learners by auditing API/database retrieval paths, resolving) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 132.80 Td (bottlenecks, and building reusable backend modules; reported a 15% execution-efficiency improvement.) Tj ET
-q 0.750 G 0.40 w 36.00 24.00 m 576.00 24.00 l S Q
-BT 0.350 g /F1 6.80 Tf 36.00 12.00 Td (Praveena Satti | Research CV) Tj ET
-BT 0.350 g /F1 6.80 Tf 541.22 12.00 Td (Page 1 of 2) Tj ET
-endstream
+<<
+/A <<
+/S /URI /Type /Action /URI (https://orcid.org/0009-0000-6555-5072)
+>> /Border [ 0 0 0 ] /Rect [ 380.5398 753.634 405.3492 762.874 ] /Subtype /Link /Type /Annot
+>>
 endobj
 9 0 obj
-<< /Length 8200 >>
-stream
-BT 0.100 g /F2 9.50 Tf 36.00 752.00 Td (SELECTED RESEARCH & ENGINEERING PROJECTS) Tj ET
-q 0.650 G 0.50 w 36.00 748.00 m 576.00 748.00 l S Q
-BT 0.050 g /F2 8.30 Tf 36.00 736.40 Td (ReliEMCAD - Reliability-Gated Test-Time Adaptation for Medical Segmentation) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 724.80 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 724.80 Td (Designed a lightweight deployment-time framework that estimates distribution shift and predictive uncertainty, then chooses freeze, selective adaptation,) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 713.20 Td (or referral rather than adapting every target input unconditionally.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 700.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 700.40 Td (Planned selective BN/affine or low-rank updates with entropy + consistency + anchor objectives, acceptance testing, rollback, calibration, and) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 688.80 Td (harmful-adaptation tracking.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 676.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 676.00 Td (Evaluation plan covers Dice/Jaccard/HD95/ASD, ECE, uncertainty-error AUROC, selective Dice/coverage, latency, memory, and adaptation-failure) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 664.40 Td (analysis.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 651.60 Td (PraxisMesh - Verified Agent Operations Platform) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 640.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 640.00 Td (Designed a safety-oriented agent execution architecture with typed task graphs, deterministic policy gates, human approval, independent postcondition) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 628.40 Td (verification, and tamper-evident audit trails.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 615.60 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 615.60 Td (Focused the system on explicit execution boundaries and evidence-producing verification rather than unconstrained autonomous action.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 602.80 Td (Clinical Trial Matching Engine - Retrieval / NLP) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 591.20 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 591.20 Td (Implemented hybrid semantic + structured retrieval over public ClinicalTrials.gov metadata using sentence-transformers, Chroma, FastAPI, and Docker.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 578.40 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 578.40 Td (Structured the pipeline for evidence-grounded candidate-to-trial retrieval with reusable preprocessing and API layers.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 565.60 Td (Multimodal Vital-Signs Anomaly Detector - State-Space ML) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 554.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 554.00 Td (Built quality-aware state-space fusion with RTS smoothing for missing/noisy HR, SpO2, respiration, and temperature streams.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 541.20 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 541.20 Td (Modeled uncertainty and irregular longitudinal observations rather than assuming complete, uniformly sampled physiological data.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 528.40 Td (Repo-Aware Coding Assistant - Code Intelligence) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 516.80 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 516.80 Td (Built Python AST chunking, call-graph expansion, and lexical retrieval for grounded file/line search and repository-aware change suggestions.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 504.00 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 504.00 Td (Designed outputs around traceable code locations and dependency context to reduce unsupported repository edits.) Tj ET
-BT 0.050 g /F2 8.30 Tf 36.00 491.20 Td (Additional Research/Engineering Systems) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 479.60 Td (Natural-Language-to-Infrastructure Generator | Hybrid Wiki Search Engine | Transaction Graph Fraud Detector | Distributed ML Task Queue | ETL) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 468.80 Td (Observability Dashboard | HireLens ATS analysis | Avenkin care-coordination platform.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 451.80 Td (EDUCATION) Tj ET
-q 0.650 G 0.50 w 36.00 447.80 m 576.00 447.80 l S Q
-BT 0.050 g /F2 8.30 Tf 36.00 436.20 Td (Bachelor of Technology \(Honours\) - Computer Science & Engineering \(AI/ML\)) Tj ET
-BT 0.050 g /F2 8.30 Tf 536.32 436.20 Td (2022-2026) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 424.60 Td (KL University) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 411.60 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 411.60 Td (Specialization: Artificial Intelligence and Machine Learning. Academic work and independent projects span machine learning, deep learning, NLP,) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 400.00 Td (information retrieval, computer vision/medical imaging, cloud/data systems, and software engineering.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 383.20 Td (RESEARCH WORKFLOW & EVALUATION PRACTICE) Tj ET
-q 0.650 G 0.50 w 36.00 379.20 m 576.00 379.20 l S Q
-BT 0.080 g /F2 7.70 Tf 36.00 367.60 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 367.60 Td (Problem formulation -> related-work review -> baseline selection -> reproducible experiment setup -> metric validation -> error/failure analysis ->) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 356.00 Td (documented evidence.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 343.20 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 343.20 Td (For ML reproducibility, record dataset/split, source revision, checkpoint provenance, environment, raw metrics, and limitations; distinguish checkpoint) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 331.60 Td (verification from independent retraining or multi-run replication.) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 318.80 Td (-) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 318.80 Td (For trustworthy AI, prefer explicit uncertainty, calibration, acceptance tests, rollback, grounded evidence, controlled execution, and documented failure) Tj ET
-BT 0.080 g /F1 7.70 Tf 46.00 307.20 Td (modes over unsupported model claims.) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 290.40 Td (TECHNICAL SKILLS) Tj ET
-q 0.650 G 0.50 w 36.00 286.40 m 576.00 286.40 l S Q
-BT 0.080 g /F1 7.70 Tf 36.00 274.80 Td (ML/AI: Python | PyTorch | TensorFlow | Scikit-learn | Transformers/BERT | sentence-transformers | LangChain | information retrieval | semantic search |) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 264.00 Td (state-space modeling | graph ML) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 251.00 Td (Data/Systems: Pandas | NumPy | PySpark | SQL | FastAPI | Flask | Docker | Linux | Neo4j | NetworkX | REST APIs | CI/CD) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 238.00 Td (Cloud/MLOps: AWS S3/Lambda | Terraform | monitoring | reproducible environments | checkpoint/data provenance | experiment logs) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 221.00 Td (SELECTED CREDENTIALS & PROFESSIONAL AFFILIATIONS) Tj ET
-q 0.650 G 0.50 w 36.00 217.00 m 576.00 217.00 l S Q
-BT 0.080 g /F1 7.70 Tf 36.00 205.40 Td (Certifications: AWS Certified Cloud Practitioner | Google Associate Cloud Engineer | GitHub Foundations | Neo4j Certified Professional | Automation) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 194.60 Td (Anywhere Advanced RPA Professional) Tj ET
-BT 0.080 g /F1 7.70 Tf 36.00 181.60 Td (Affiliations: IEEE Member | IEEE Women in Engineering | IEEE SIGHT) Tj ET
-BT 0.100 g /F2 9.50 Tf 36.00 164.60 Td (RESEARCH EVIDENCE & CLICKABLE LINKS) Tj ET
-q 0.650 G 0.50 w 36.00 160.60 m 576.00 160.60 l S Q
-BT 0.080 g /F2 7.70 Tf 36.00 149.00 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 149.00 Td (EMCAD / ReliEMCAD reproducibility code) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 138.20 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 138.20 Td (Castorini Anserini merged PR #3391) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 127.40 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 127.40 Td (Castorini Pyserini merged PR #2650) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 116.60 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 116.60 Td (GitHub research portfolio) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 105.80 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 105.80 Td (Research portfolio website) Tj ET
-BT 0.080 g /F2 7.70 Tf 36.00 95.00 Td (-) Tj ET
-BT 0.180 g /F1 7.70 Tf 46.00 95.00 Td (ORCID 0009-0000-6555-5072) Tj ET
-q 0.750 G 0.40 w 36.00 24.00 m 576.00 24.00 l S Q
-BT 0.350 g /F1 6.80 Tf 36.00 12.00 Td (Praveena Satti | Research CV) Tj ET
-BT 0.350 g /F1 6.80 Tf 541.22 12.00 Td (Page 2 of 2) Tj ET
-endstream
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals)
+>> /Border [ 0 0 0 ] /Rect [ 47.68504 567.554 84.00544 576.674 ] /Subtype /Link /Type /Annot
+>>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [98.44 729.50 125.63 740.20] /Border [0 0 0] /A << /S /URI /URI (mailto:sattipraveena3@gmail.com) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals/blob/main/docs/LITERATURE_MAP.md)
+>> /Border [ 0 0 0 ] /Rect [ 90.20704 567.554 169.1938 576.674 ] /Subtype /Link /Type /Annot
+>>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [125.63 729.50 163.32 740.20] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/praveenasatti) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals/blob/main/docs/RESEARCH_IDENTITY.md)
+>> /Border [ 0 0 0 ] /Rect [ 175.3954 567.554 270.8742 576.674 ] /Subtype /Link /Type /Annot
+>>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [163.32 729.50 195.53 740.20] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/Evidence-Induced-Answer-Reversals)
+>> /Border [ 0 0 0 ] /Rect [ 197.409 525.854 217.4814 536.174 ] /Subtype /Link /Type /Annot
+>>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [195.53 729.50 232.30 740.20] /Border [0 0 0] /A << /S /URI /URI (https://sattipraveena3-sudo.github.io/) >> >>
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [232.30 729.50 265.41 740.20] /Border [0 0 0] /A << /S /URI /URI (https://orcid.org/0009-0000-6555-5072) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/castorini/anserini/pull/3391)
+>> /Border [ 0 0 0 ] /Rect [ 309.357 391.494 375.2193 400.974 ] /Subtype /Link /Type /Annot
+>>
 endobj
 15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 147.50 189.76 157.70] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo/praveenasatti/tree/emcad-screening) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/castorini/pyserini/pull/2650)
+>> /Border [ 0 0 0 ] /Rect [ 392.7889 391.494 458.2088 400.974 ] /Subtype /Link /Type /Annot
+>>
 endobj
 16 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 136.70 170.96 146.90] /Border [0 0 0] /A << /S /URI /URI (https://github.com/castorini/anserini/pull/3391) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.propulsiontechjournal.com/index.php/journal/article/view/8744)
+>> /Border [ 0 0 0 ] /Rect [ 296.7734 371.254 323.5366 381.574 ] /Subtype /Link /Type /Annot
+>>
 endobj
 17 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 125.90 170.52 136.10] /Border [0 0 0] /A << /S /URI /URI (https://github.com/castorini/pyserini/pull/2650) >> >>
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 14 0 R 
+  15 0 R 16 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 18 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 115.10 131.59 125.30] /Border [0 0 0] /A << /S /URI /URI (https://github.com/sattipraveena3-sudo) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/hybrid-wiki-search-engine)
+>> /Border [ 0 0 0 ] /Rect [ 130.8865 702.074 165.5343 710.774 ] /Subtype /Link /Type /Annot
+>>
 endobj
 19 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 104.30 136.72 114.50] /Border [0 0 0] /A << /S /URI /URI (https://sattipraveena3-sudo.github.io/) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/PraxisMesh)
+>> /Border [ 0 0 0 ] /Rect [ 279.126 692.974 313.7737 701.674 ] /Subtype /Link /Type /Annot
+>>
 endobj
 20 0 obj
-<< /Type /Annot /Subtype /Link /Rect [46.00 93.50 149.14 103.70] /Border [0 0 0] /A << /S /URI /URI (https://orcid.org/0009-0000-6555-5072) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/repo-aware-coding-assistant)
+>> /Border [ 0 0 0 ] /Rect [ 214.711 644.774 249.3588 653.474 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/clinical-trial-matching-engine)
+>> /Border [ 0 0 0 ] /Rect [ 362.9505 635.674 397.5982 644.374 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/praveenasatti/tree/emcad-screening)
+>> /Border [ 0 0 0 ] /Rect [ 176.5985 340.594 201.6257 350.074 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sattipraveena3-sudo/BioTwin-PE-APEE)
+>> /Border [ 0 0 0 ] /Rect [ 148.04 314.394 185.7941 323.874 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Annots [ 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+25 0 obj
+<<
+/PageMode /UseNone /Pages 27 0 R /Type /Catalog
+>>
+endobj
+26 0 obj
+<<
+/Author (Praveena Satti) /CreationDate (D:20260825011606-07'00') /Creator (ReportLab) /Keywords () /ModDate (D:20260825011606-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Reliable retrieval-augmented language systems) /Title (Praveena Satti - Research CV) /Trapped /False
+>>
+endobj
+27 0 obj
+<<
+/Count 2 /Kids [ 17 0 R 24 0 R ] /Type /Pages
+>>
+endobj
+28 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3940
+>>
+stream
+Gb!Sn=`YN@&q8H9kc0&.;WN)j_g^74,g'^kP%Bf"2H>#'LEJV)>a[r7;u,t\!HUlq+g50peoo^Z#8j,]a4FZWW0)tPRf)'(LsG/Ti_h!qVtl3,;_`!87H=3cT-oM3)OfWHibFeHg8$^:lF808?_8_^4e0H$G`(llW_'e&(oD0('Tls0MWLg\pFN,nM.5[N`$<6?<Q!;U;_2WZ[Q^YoE5_`n]02a#[A<1B)MWABJjsj.S$@=c@n&7T'ES/,;kA&rq&;Bpn.X(HT_Zo0QE`8BEEp\9]F8"cN$U"&HZ-U8ks*kWEE0u#9INX!7VKZc8:cA7bJMTjI+<ML<l]6I(RI2IQ8kN)LuW3HX*C(E@!o\A%+EUZnb?]aZdF.aBuCiPSgC5e/XL>Kj`54oJNS\P\JS:fa0`3L`I\,+_)t.Y-L?4NVQQkpXkU6oUWJG[/"2K2j3dMsc$1_f4MI8CcE>/D*PKJ5aj&r%l1J^RH$b1;q/eCk0Y5-mnV>6*puZrt+3)dOjlB[lBTMk3Rfc0eoV4p/2oZ!^.iKt>(^=S?U`48`XnaLf&9CNFYrtJCc*H:?Su4f@kLeEZ2nO?iW^:%@I6>hPD0WJCRtaWhV\>hsL2C5>m*E!i`O=#]gHMm&+fqGAWhPtdm/WS)$m[&dOg22VV!.HqG0)PK@*8RFiaoo5&ZP]AmQmc2L]q3El+k0^=Qh5jn+^o9IuUjB#K<0QnMO@Y9sS5nKL,/d(4/,+T3QJhqT)D:]\,+\Dsi\@WoCk*>]PcE^o2:\K1BAL-;#RF\$#mDWq`eM#RW:\8%!:mc,MF1-_[^mDA2jbjR-&3D;q'RkftRIh]<qM-1W_apW(+oi5j+bG)OF`$u":6nNf/1]=jZ\SR%[ua))=ffP'DeW#1C@TaYS=WrUP071>#eq`u-Uj^Gq?+fC88=hsK/3+V,3ic2f$'XDshMTh0#o7BKC+uLOfcn'T;'?Z5R\YW$k5lLs@n=5*?=UpAZqd@NUT9IUDS.ghP#G,B%SnC%ko)YF6`S6B<:R`/Tm"&`<0J?N34tD41Q?1^\_Sl#?cXKMc;K4uAQ:7i0Ua!\lJJcZI]&&U2_2O'^nR@\5EtW6mnLDYTC<?2-KANZH"j?_I-P?e[3IO/AK(Y9\`6hV9MD>iX@c93UlEb"`c&uZ&#=>Q#k4#TIbK:<-H>7"-bi(g7fT+OAJ!]r?]GeJT]p[Za$'B,'DdQ:1fAA,SCtmdBTm#4s2+;<PV.Y*(TZo:2+8f(qc^%NqCoaNF\<_i]l)=rJ@J(Kr?2a\Kh7DZn:tOkb+rN[D*N0])C4c3P1.rh&jt):3M--PtTkcXM\oLs#ZuHa)aD7U_?Q<'c2/V>F"<k:s??^J4;Ki5"[0&tlUHnCQjLGiiAIg$X)C'^en=>@HjMX9[L`&<c@1oc#d44pI:C+nN+C5TB@2"17etCFKM[89&gr54(/JBTlHqPp6*omJN=W=pipCjL$$;H'fXBoKEERnoso`Q2q"^;+<:i$H,(76LlMho]`8hhl[@1_$4qCk8I!MH8?-neMl;4^/GG5q7FnTsd^+G'c"rpKs?d>]0td54];6krk,CuYdW*B)0D?q$K-L8eN?V>"t[K>;B8e.,GKYn.NdN"Z/NngM'/oT3U-Wt=clZ5es`O<;j&3W>MncN]BOL&)!Q.skK7H\E[[_Zo?/!,$ji")sKZ]ZMu],+d)bJ!pNQbI1LZR4([n4;9E"'Hk:YX;Z5$:h:]Q?HPS&iq9?EDV--bMe].LOm3/<&PgmX0r1#:jSKN,:jWa/-080Y-l&3TR1f/5CD\_W]qt&f0[-4m.aYdHf9#A?XaUF)*20:@T&.b;!ls.B_m`\%$g/_CV[6TbagO'hg[?=<g"X91mL3"u9+^(bUq.+o04O1t=F0*W.@8'QMeC.N;(gJ5TG7%YMc*0$j\^g$eUpKk<Q8a.e45SM7oObuFtU3^:Ka"8jIr-4gbPua:OQ$941_tq\$tCeiU#t/.B:pqD#Ir`h*S@4cr;s,UK21eqLNV8/-H]F<lNU#fK&`jg%FNV;$F@0?*68HVoNlIn>OP-J@=K;d"5e?HgHBuU]-sWb2*=V6=sV$WL6u3f(gX`3tQ4J\,t0p8QU'3\6PnHMDF[b$j@0BMtX%iHpF<r1%k0_(fZ@tfq-6kY]=(t7p'"O/PW[H'W^ZlS<ZBB<:"+N,`Z5"MZ3e3)Ycm>*Xg2U"[F]g=93l)*()+_Jn7*\5;K$[PSO2[7=iZ#&$]Q'S1g;S,"W-Sb0h[!6H&dr&9Ho([]D!a]F9_$XDUIkPm=`WOKpnT=mjR5nc.6.f.9W.CqA)Y"IY<#mNNj\5b0=5@p@(;_-^#OZ7,;g"tf-WGV'j`_*0ZtdkV;o18bkRR146/EeUeT^p6>$GlA<QNed*/Bl!(G_a:S8=p4RJqhcXn"$pT(j7oqh"O6S&-tQPCMotZP(,Qch!$n"fgVr)lX,\+fH9g(ihs!.Rcu@Nc/e]Xe<R_e\`jF.V1Lp]F;84/Y!EZgr86GY1>CUlU8?'&Wm0j#$dJmnmckC,3!)2^uJoIOt>WhLEdisQCjh/GC"@:m[j\T!t<Hq'u#Sq"!0>GA7SVtXRMm=]=ndPdh`8Y3sPSqIg;iE'^?-ks/cIqqBhXGh#]^M]l!usW!]5:(1STRZ13nBU+)5beDWB8ZH#WY#VRqHIg.)"U5kNt*9X/*ak4hDar_-'ZP3a9]+'L`fS=X$+o7\5^DZ[b82Z\!=MK_'#>).e]l_HHO%./.Dml?5f"1(6r?cJc`Sa-LQE<%P([hU,n!c`:=6@+3/8Zl\o\1-[02.^>9alE6hjQ=bVPNYj&tc()sBD>T[g7;m_%`ma`V)UUPX6H1qi>*1UQZC3pO*CZ*]/W\qa@9L9JUFui3?N:EU/g;OqAk?0\\N%s+qjTPGP+^qrc/2=Ahg_X+g3A@&]%<)@++p=nTEGN65uSWF"kaH8AtE#iA;\1gJml_9U8q-OaO#G'+DnFg^V<NY0*3(!@QuD4^I%S)OTt``bqtNr,^L>U=Hp(8Z@eJ8gXdX4V$+\4aP)g)B.src[h[q""R>-Pn[@41TJ,=I;!ngkj/_^*dES3$s1'.G-f;;Z2,rb3&p<Ym\6_Bbl`.S_EP.$a+F-YrA@!+$1D*\2");aFO.0L#qDJ$ais@EVJfM7o(6+5bCi=W*/c9+O79+Dd/ng!&-Js4Xf9Mql"t:'k7oV&qO'Jr7ID,_4(sorI;umY*r__[lm+p2jW.=oo5nVR"fue2IaL3Lhp=1o=BFI`R<3i/H?mO[p3H1Z27MkJW!rq](rT<C2=BQnHG:T*O17.,"kgu6PP6ec)bo;;[MuekQ/XC3<(Q!VhmNp.+0?u3T:MhC>"%aKRP&1)"6qK>k>N4K!RaKq5IKbCm-*'AheCOJY^=D5eli@NG*VU>oF$"=9Ece;S(X9*qD!gFl)tq<;Q3i@Y,4=/#$sk::;r$tGG?Y&rpfCJ\0jhF1Kq)_ZA/?C>"D=FI(*:0u$Lr(W4*_uS>-OB#Fd]OEPD`)+4:1Jq4:)OVUaSQ;Q@H@[=r+n:a^s2!BuGs,hhM%hkb?bu_=(!0h:KJdOqFhrSZ;-D7W,,fld>>`Ra'_sr'hL_g#VhN2^9IaEp5mOWRg6r&AX=Z3Mp(N@g*H_iG/"&,TS/n7K*YdQIf3OB@l&BomO#s4Y\40Zfu($6a):\_G0WRMMHkbX2,O/i6iV2/NMfR6M6`_JIaG'AL4eL[:H<gcFPU^hDs0SfiPl\/F)\(F$VBS"KmcMg+H"jeITS3@R+7GMYU]=(B[!,f%`*?X5G6R3dON[G#R6I56PCs?V*Gp9LUe()=t<hM*LBWfgT/JZ8E`R?\o@2i[bf$TL$dgh"oT%*g+Cr%;3k!?Q>6PE((fLH`4;%JlV)?I$4?M7Ff6B=V/`K$km!tHPrq@/h^*_P]YN7-JFl!_4_bu*@q@dL`?<X_R4-(5)j&5q(I4TjZ!~>endstream
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3724
+>>
+stream
+Gb!#^>Bedl&q9SYW(5/ROEJ<SShQIIG49'n9QnaM(Ej^\=K!*ClnBeOI_K\C,SGa#)/lf.a+2[AmcqB2oi3FFl1enicZhm#5,#;UK+*qjF#%RVVTFq:aiPVPRVuDbjcS[ENpF<QH*6T22N=k71l%Yt;R-AKoc;j8e(6/*[9Zsuj#EJ@k\bGpU%*tOR91^Wc16!-0_$`]Zm].KC^'=hrr-e^gblO'mWL<=CcW,L7Aol_oZ1,Qd5WT_:7l7=EY`6VP5;rl7$EZgq>#q[*$`fmhf8CWM&)%D&p#g4:]61"J$loOl^I:q:n#mne:_Cp"pLETKCA)QeTm+ENn#apQR8,\4J1l[iu,;/"bpMqHnp<_UY]otGh]!5D_`3[@W_?W.B/o*bB;Q[q6&sJ*_R#k$u2YP43#l]_15b+!_l65m6@D^eH4@mgoY,c]2;,Zs,JJcc+$-9n:#J'n\.4I+,1Kd?4CeiE&>)<l;6sCK)283,.sHTHGf:@#lDdc42Ob#m;^njCtn^+ZWfrLeS*u&L>L"Tr-%foZsP9$FeB3-_Y/'V5%qJ$iI7U;6h>)i(qO<;X.G?h@G%3*(UYl/r;Q]pDD]2gBlY4\1ZP\ul<b2=F>`@>m($#:U4;4lj3`tZ<(KSh<b-Om,/s(l+f"5PK8R";k7kBEGKiC!5c"[0CCn9UZ$cVM[?\5D*=[\898HTmpPf0EVlhgFo:KBnD3"`?:OS-;[M8.JorT`m?Z2eZT@!oC^hI%BFdOe+b,?hg'J(nX>"<k`B$[EeQH(d=qksT^lRDY<B'KS2%;ZCrYFl=HAdYX9N\nPcfPjIu5(R<:E><e6<Ic12"Zef]0qAeK0"Zaob7<#@o5uD>.-Y>@qEXX-k9B:iPg5(J7S+I4\>HRi#qn9]M5M'<V`g$YC)t7s<[fdVVc1=O$b"JS9f_G-F?3lHOn1nMRtI^siBOcQ#B+9Q_"B(HhlqJ7'*bYHi(a[s_=4`Rou;Y#r7CX)kF`,U?.8h6#q)3"Ro'dZ&%'EPoeQ!_N"mmJnW`2?O(g0Y*cG^(iIi4TQE(9l>Jn`?;.jN)T$GuWi?KrD6sdeUST/6/Gfes#]^gXu>-1rYAWL(jN(V<f,)^]/C\:U*bg7Ea`_NrAd)'h8DXT"UD"P]*V[MeO3Kt.BoIdBCPsK1FYfMa22I'V<9t.C;WLK@B=oOlqD/VOf;9JM3-gD8;2<cU6'Do.sdOJc@p5*:T$-'+GZ7'>41grJXc[!CQ&rC+V9U)O)dTg=-YVoK?;B!d&`<,nQlM91(o\8'2O)q6u:GRsVS#D.0niU4K\$hS`R$Kk&]fseM!S9keVYp['gR`[-Y5`C@Nu<ON`cQj<l_M`R0=!>cap^PN'#*:&$.'WCD#jbnf;(J*UHf#6QAtFR>1sXjXMg&D1_WZ!,,3aP+NQYpPChG%b%AdDVEu!L-<_)/>G.UpFd)o0O9u=!03!`.e6i5C+*j9D36mh[<7G=+OG2tS<;MWee3j)hD1->;CXU&<*"Td;)HGD>TP9gZa2l;F(X:tF#npRX-:H08:"QTf_XmqtVIYsYGJh6;p"j$a-Aks8W&@r<]t_8E9a5gNhi2-W;T'e"drCA%SF7I3Bt0$_XPd-Q-W.g.1%Yk^nB0arOQbAjULZY*PfUZ")1i:=:sG,Y6U9',DlP?\L^o)`Y?[;/7##Z]Zme^P96!SaEkN5k+iCIW:cZMSO_"g(Go#e!I2@RP!BsGUf7E@F,c3TF*hs&G5R3DA1-R8t#^J5]*^`Z)dRKIY<Kq;6D2>6D,YAlLX@"5*_Zi--6gH&473WK[@CnO,8DMiQ`*IKh>RO6[LZ:Jt)`DECbXBVRA@),`Aj$I>;$j'j5`;FS+=2mB.3Sh),S?L\#(^)ReBte46L$!6fLXPmjS-Vb6!B.>,`0IUk*4Mt(/S(absYgZV(lg:F'^-:peD`H6Sd2g!ZWW+VJ8^+I'$6uX"/M[#1#0&kAVU/8;oM@h@AfslN`/gM":B=7^$=fcY90m2m%#eC)C.$O92m8"gX,<':q]"^''QHk/`5G16l1YU#/YL74QG2s8=<!KKcCP6qBf-R'SV]b!2p6O(Igg<u>,]`]LGd2OE-,H^35!#_39^5ca8"!s$Pj/;_RNI[D7]n)V':,dCc7KJTJ<-9fm36[GAFJ4)"Gs(@0?-B9Aqk%2pPYokT)j!C577"S>=mQ9G@W;MCLVnX1BVo44(YHp&dDTh*4ZR]61,%X#pgHLb,/:/#_K@3l6]W#egRE0GQD)I_t2(=G2[VfC-%duIlG=As?OK$3tJ[s/bb%4]j,mtuN@_'AE3"b9=9F`t?Z^k?*5d0Z1(\9tUCXtK!.j2h)^`/=;&F.L&`cmMSUO"eH+QVm8;`E[rqX.go.)dIu?f)@i]ciAb)%<!ph>\ITD!9t@D5$5&0S?ULhp@Z!OohDn'o(8@jMPQ/Y5,59!/@RngshDpmQ-fl$A.P;'<\:XW-<A<#Z,M)Z)il%r"88rCqc1pRkc9';_Xf-jg\N;%j[AS'ea9"LspX&0Ue>"2)gsJ>gb*_@jD*Bq1:taMIg6t``rl)FK#b*&P/SlL6fAY`DXqNQORI$De>B:D3om>jQm;dbZW[Ej839R,4*[\N*4:5\+S%adH#+q>IcRA1.R,f2\Q3Flc:XP^l,A4_+q&bgX`!^1Nlr%+fO"?CK=RFJs7Qc"1:Z;S11I!#Y1t+]Ofm2-A1b<oOa41H*D4VY,gdKr<=;EI?/ju6GnrHNQ<X3l@'rm5)'do3ck[7hn'ug7hXpn^(Bf:b<"/M0^aJ!A6C1;K]e`,5K^/rVQp/CW'<9-?Z^IUGb=5L_2kEQL-.%P4fA=HdFG6iDJ-.@G+,GbFP6hoEu]HWh`@4(/3!?tGm[,X3!`%HiGS9\<VHDM\-R$M+e>[&G;KT??^e9*pLr!an14:m*:?p]'X/Mnn0(.T%HSuB;Ij2$?@D!p5$<g/mJ'USoVAn'h!^VHiD%(2;:XN=!F2?]c5;bhmU*T;Hb7KN!Rh[A$=Lhb<K50;Z:_2S?Cb].hAR0hlYT-(!%Y>mgNuLi-TP1-d^ksC[&#4e(<,<-Yl#AR.*GAW`^r1S3DL@1W68`UW]CH3aU@f_=7'70nM5lQDee//[CbY.+k$'")ZcT:`]&.#_I5A/!XXV=kW7m39V-L_]ap16$?B@pejV#lW+AlrQ'eOgC8uSI.*U8jDr>keDUA%,AM^a^7OZ%9c>b/B8^af<T;Z?i>\4jc,TE"B,Pg%Fh#mM>(U^hRI'l`%DWs+Eg:-uMY=llJZ.f]BVPO+jf\LlJO!K$s3>`6*QXa;!f7;H<nQp]#k_J%)a3DDG:3"Ogj$/I^lE*?K]ej[H5B^E)j$'L^#o2uFqm'H%1)L44-c,9JZ?W5C/;ai.q@?@#RBD3F^n5pu/n-I1@+D?I>fdkr\1X\$WS2'$-eq[+V7$#F-K\_/eLQF$e>iQZQTKfP9/fX>#*.T14T`[nbildMpRI[%kI-D#g7-E>ap1^%#fDaAjLYgLWk/$L&/Xp9Fc.BnA)kDUp#P3?0J2U@Tk\'3D2,'4*j]Jh0LsRfP:6e5UT@e=.=aZU.RYhNGM<h-3YFG'cLNiUe6`(gD-n)[DgJi&YL])*M_^3%!V+73\q$W<4;4[s%P/2TOXQ-1=laq#eC0)SGQfYo44Rf[ng2VKWZA6Gf6).Eg\RLO5GV"+b;o>Bc+//TR(lREQkcueZ5!_]l6RH#QYlJtO;/,+I&[_cPZo^9P/#Ge?d7$3Sc~>endstream
 endobj
 xref
-0 21
+0 30
 0000000000 65535 f 
-0000000019 00000 n 
-0000000068 00000 n 
-0000000155 00000 n 
-0000000322 00000 n 
-0000000496 00000 n 
-0000000566 00000 n 
-0000000641 00000 n 
-0000000719 00000 n 
-0000008891 00000 n 
-0000017142 00000 n 
-0000017299 00000 n 
-0000017467 00000 n 
-0000017632 00000 n 
-0000017797 00000 n 
-0000017961 00000 n 
-0000018160 00000 n 
-0000018333 00000 n 
-0000018506 00000 n 
-0000018670 00000 n 
-0000018834 00000 n 
+0000000061 00000 n 
+0000000113 00000 n 
+0000000220 00000 n 
+0000000332 00000 n 
+0000000511 00000 n 
+0000000702 00000 n 
+0000000890 00000 n 
+0000001077 00000 n 
+0000001264 00000 n 
+0000001486 00000 n 
+0000001742 00000 n 
+0000002001 00000 n 
+0000002223 00000 n 
+0000002339 00000 n 
+0000002536 00000 n 
+0000002734 00000 n 
+0000002958 00000 n 
+0000003257 00000 n 
+0000003472 00000 n 
+0000003671 00000 n 
+0000003887 00000 n 
+0000004107 00000 n 
+0000004331 00000 n 
+0000004534 00000 n 
+0000004794 00000 n 
+0000004864 00000 n 
+0000005185 00000 n 
+0000005253 00000 n 
+0000009285 00000 n 
 trailer
-<< /Size 21 /Root 1 0 R >>
+<<
+/ID 
+[<e1bfc66456e4e75454bb6afbd81d47e3><e1bfc66456e4e75454bb6afbd81d47e3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 26 0 R
+/Root 25 0 R
+/Size 30
+>>
 startxref
-18996
+13101
 %%EOF
