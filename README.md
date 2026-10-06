@@ -24,6 +24,7 @@ The software measurement pipeline and no-cost mock smoke workflow are verified. 
 |---|---|
 | [Castorini Anserini PR #3391](https://github.com/castorini/anserini/pull/3391) and [Pyserini PR #2650](https://github.com/castorini/pyserini/pull/2650), merged upstream | Retrieval reproduction and evaluation |
 | [Hybrid Wiki Search Engine](https://github.com/sattipraveena3-sudo/hybrid-wiki-search-engine) | Sparse retrieval and rank fusion |
+| [VeriRAG](https://github.com/sattipraveena3-sudo/veritrag) | Claim-level evidence verification, hybrid retrieval, provenance, and CI risk gates |
 | [PraxisMesh](https://github.com/sattipraveena3-sudo/PraxisMesh) | Policy gates and independent verification |
 | [Repo-Aware Coding Assistant](https://github.com/sattipraveena3-sudo/repo-aware-coding-assistant) | Grounded retrieval with traceable evidence |
 | [Clinical Trial Matching Engine](https://github.com/sattipraveena3-sudo/clinical-trial-matching-engine) | Applied semantic and structured retrieval |
